@@ -1,0 +1,33 @@
+[
+  {
+    "slug": "ai-business-os",
+    "name": "AI Business OS",
+    "status": "In development",
+    "visibility": "Private implementation · Public showcase",
+    "summary": "A modular business operations platform exploring how human staff and AI agents can work through the same workflows, permissions, business rules, and data model.",
+    "stack": [
+      "Next.js",
+      "FastAPI",
+      "PostgreSQL",
+      "pgvector",
+      "Redis",
+      "AI gateway"
+    ],
+    "href": "https://github.com/limzewei/aibusinessos-showcase"
+  },
+  {
+    "slug": "agentctl",
+    "name": "AgentCTL",
+    "status": "Active private project",
+    "visibility": "Private implementation · Public showcase",
+    "summary": "A control plane for AI-agent development environments, covering reusable skills, MCP configuration, provider accounts, consumer wiring, project sync, diagnostics, and repeatable AI-assisted workflows.",
+    "stack": [
+      "TypeScript",
+      "Tauri",
+      "CLI",
+      "MCP",
+      "GitHub Actions"
+    ],
+    "href": "https://github.com/limzewei/agentctl-showcase"
+  }
+]
