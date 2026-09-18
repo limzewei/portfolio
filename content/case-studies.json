@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Cloud-controlled hotel gateway systems",
+    "summary": "Worked across backend services, remote configuration, Linux networking, captive portal, DHCP, NAT/firewalling, VLAN/Open vSwitch, bandwidth control, routing, and production support for a distributed hotel gateway product with a 100+ hotel install base.",
+    "tags": [
+      "Linux",
+      "WebSocket",
+      "Networking",
+      "Production"
+    ]
+  },
+  {
+    "title": "Reservation, PMS & payment integrations",
+    "summary": "Designed and supported reservation workflows integrating messaging channels, Oracle OHIP, Shiji PMS, local fallback inventory, pricing logic, and payment links.",
+    "tags": [
+      "APIs",
+      "PMS",
+      "Payments",
+      "Backend"
+    ]
+  },
+  {
+    "title": "Self-hosted LLM infrastructure",
+    "summary": "Deployed and benchmarked Llama-based model serving using vLLM/Ollama, Redis, and multi-GPU Tesla V100 infrastructure, evaluating throughput, latency, tensor parallelism, and production suitability.",
+    "tags": [
+      "LLM",
+      "GPU",
+      "Linux",
+      "Redis"
+    ]
+  }
+]
