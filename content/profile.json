@@ -1,0 +1,20 @@
+{
+  "name": "Lim Ze Wei",
+  "role": "Software Engineer",
+  "headline": "Backend & Full-Stack Systems · API Integrations · Linux/Docker · AI/LLM",
+  "location": "Malaysia",
+  "intro": "I build and support production systems across backend services, web applications, integrations, Linux infrastructure, networking, and AI-assisted workflows.",
+  "current": "Currently working in hospitality technology across internet gateway platforms, reservation and PMS integrations, payment workflows, messaging integrations, production Linux environments, and self-hosted LLM infrastructure.",
+  "focus": [
+    "Backend & full-stack engineering",
+    "REST APIs, WebSockets & webhooks",
+    "PostgreSQL / MariaDB / Redis",
+    "Linux, Docker & production troubleshooting",
+    "AI/LLM integration & developer tooling"
+  ],
+  "links": {
+    "github": "https://github.com/limzewei",
+    "linkedin": "https://www.linkedin.com/in/zewei-lim-74269a2a7/",
+    "email": "mailto:limzewei123@gmail.com"
+  }
+}
