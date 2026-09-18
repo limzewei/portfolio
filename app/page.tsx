@@ -24,6 +24,7 @@ export default function HomePage() {
         <p className="muted">{profile.current}</p>
 
         <div className="actions">
+          <a href={profile.links.resume} target="_blank" rel="noreferrer">Resume</a>
           <a href={profile.links.github} target="_blank" rel="noreferrer">GitHub</a>
           <a href={profile.links.linkedin} target="_blank" rel="noreferrer">LinkedIn</a>
           <a href={profile.links.email}>Email</a>
@@ -138,6 +139,7 @@ export default function HomePage() {
           <h2>Software engineering, integrations, infrastructure & AI.</h2>
         </div>
         <div className="footer-links">
+          <a href={profile.links.resume} target="_blank" rel="noreferrer">Resume</a>
           <a href={profile.links.linkedin} target="_blank" rel="noreferrer">LinkedIn</a>
           <a href={profile.links.github} target="_blank" rel="noreferrer">GitHub</a>
           <a href={profile.links.email}>Email</a>
