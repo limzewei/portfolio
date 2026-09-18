@@ -2,7 +2,7 @@
 
 ## Live site
 
-https://portfolio-taupe-kappa-01vk760xc7.vercel.app/
+https://limzewei.vercel.app/
 
 Personal engineering portfolio for full-time and selected contract opportunities.
 
